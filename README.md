@@ -1,10 +1,12 @@
 # Tutorials for BAM Folks
 
+
+## What is this? 
 A place to store tutorials, scripts, and documentation for steps that most BAM Team Members will need at some point.
 
 Each tutorial below explains a particular data processing/analysis step in the [overall BAM Modelling Workflow](https://github.com/borealbirds/tutorials/blob/master/overall-bam-modelling-workflow/README.md). 
 
-**If you have a new tutorial to share with the group, do the following:**
+**BAM Team Members: If you have a new tutorial to share with the group, do the following:**
 
 1. check if the tutorial exists
     * if yes: contact the person who last committed to it and then work out how to improve it
@@ -12,6 +14,14 @@ Each tutorial below explains a particular data processing/analysis step in the [
 2. To create a tutorial, create a new folder that has lower case letters and dashes (slugified), like `new-folder` (i.e. not `New Folder`),
 2. Include your tutorial within the folder, for file options follow some of the existing tutorials.
 4. Once a tutorial is started, add the link below and let Nicole know so it can be added to BAM News. 
+
+**BAM Team Members: If you have any questions about the database or a given processing step, do the following:**
+
+1. Review the open issues to see if your question has already been asked
+    * if yes: Add a comment describing your question in the already open issue
+    * if no: Open a new issue describing your question
+2. Be sure to 'watch' the repo so you receive notifications when people reply
+
 
 ## Tutorials
 
@@ -41,8 +51,10 @@ Coming soon...
 ## TODO
 
 1. Establishing ODBC connection (**DONE**)
-2. Fetch data from db and pre-process long format
-3. Joining tables and filtering
-4. Species cross tabulation
-5. Calculating species offsets
-6. Analyzing point count data with QPAD offsets
+2. Fetch data from db (**DONE**)
+3. Database structure (**next!**)
+4. Pre-process long format (**next!**)
+5. Joining tables and filtering 
+6. Species cross tabulation
+7. Calculating species offsets
+8. Analyzing point count data with QPAD offsets

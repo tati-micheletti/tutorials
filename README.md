@@ -17,7 +17,7 @@ Each tutorial below explains a particular data processing/analysis step in the [
 
 **BAM Team Members: If you have any questions about the database or a given processing step, do the following:**
 
-1. Review the open issues to see if your question has already been asked
+1. Review the [open issues](https://github.com/borealbirds/tutorials/issues) to see if your question has already been asked
     * if yes: Add a comment describing your question in the already open issue
     * if no: Open a new issue describing your question
 2. Be sure to 'watch' the repo so you receive notifications when people reply
